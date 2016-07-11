@@ -1,3 +1,4 @@
+//Abstaction concept
 class Customer
 {
 int account_no;
