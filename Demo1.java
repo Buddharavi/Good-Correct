@@ -1,3 +1,4 @@
+//Encapsulation
 class Employee
 {  
 private String name;  
